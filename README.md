@@ -28,10 +28,6 @@
     It takes two parameters as an argument which is the incoming data from the user and the key generated from the system.
     The method performs its encryption. In this case the system uses a built class to work on encryption of data.
     Return the ciphertext
-
-
-
-
   The decrypt() method:
     It takes two parameters as an argument which is the incoming data from the user and the key generated from the system.
     The method performs its encryption. In this case the system uses a built class to work on encryption of data.
@@ -43,7 +39,7 @@
   The generate_key() method:
     The method takes two parameters: the incoming key from the user and the incoming data.
     It generates its own key based on the incoming data and sets the value to a variable.
-   The encrypt() method:
+  The encrypt() method:
     It takes two parameters as an argument which is the incoming data from the user and the key generated from the system.
     The method performs its encryption. In this case the system uses a built class to work on encryption of data.
     Return the ciphertext
