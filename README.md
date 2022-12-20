@@ -4,7 +4,7 @@
 - The System accepts data and keys and generates a its own key and encrypt the data
 
   #AES Modules:
-  This module is found in AES.java class which performs encryption and decryption of a certain given data. The class contains properties and methods. Each property is     stated purposely for secured key generation features, key specification, parameters etc. There are also methods that can perform the desired operations.In this case     there are three methods that perform the core functionality of the module. Those are:
+   This module is found in AES.java class which performs encryption and decryption of a certain given data. The class contains properties and methods. Each property is     stated purposely for secured key generation features, key specification, parameters etc. There are also methods that can perform the desired operations.In this         case there are three methods that perform the core functionality of the module. Those are:
 
     The generate_key() method:
   The method take one parameter as an argument which the incoming key from the user
